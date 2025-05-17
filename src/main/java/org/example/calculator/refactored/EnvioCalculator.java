@@ -1,4 +1,4 @@
-package org.example.calculator;
+package org.example.calculator.refactored;
 
 public class EnvioCalculator {
     public double calcularEnvio(double peso, String zona){
